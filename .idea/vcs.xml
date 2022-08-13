@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ardupilot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/ardupilot_gazebo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/ChibiOS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/CrashDebug" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/CrashDebug/CrashCatcher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/CrashDebug/CrashCatcher/CppUTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/CrashDebug/mri" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/CrashDebug/mri/CppUTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/DroneCAN/DSDL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/DroneCAN/dronecan_dsdlc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/DroneCAN/libcanard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/DroneCAN/libcanard/drivers/avr/avr-can-lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/DroneCAN/libcanard/dsdl_compiler/pyuavcan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/DroneCAN/pydronecan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/gbenchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/gsoap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/gtest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/mavlink" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/mavlink/pymavlink" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/uavcan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/uavcan/dsdl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/uavcan/libuavcan/dsdl_compiler/pyuavcan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ardupilot/modules/waf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dronekit-python" vcs="Git" />
+  </component>
+</project>
